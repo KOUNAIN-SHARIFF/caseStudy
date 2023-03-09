@@ -1,0 +1,11 @@
+.catHead {
+  font-size: 14px;
+  font-weight: 400;
+  color: #222222;
+  margin: 10px 0px;
+}
+@media (max-width: 500px) {
+  .rowGaps {
+    gap: 15px;
+  }
+}

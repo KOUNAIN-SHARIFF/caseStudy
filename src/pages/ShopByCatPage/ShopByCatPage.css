@@ -1,0 +1,8 @@
+select {
+  border-width: 1px;
+  border-style: solid;
+  border-color: #c7c7c7 !important;
+  border-right: unset !important;
+  border-left: unset !important;
+  padding: 10px 5px;
+}

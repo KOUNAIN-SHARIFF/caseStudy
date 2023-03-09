@@ -1,0 +1,26 @@
+.card {
+  background: #ffffff;
+  box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
+  border: none !important;
+  padding: 10px !important;
+  --bs-card-spacer-x: 0 rem !important;
+}
+.featureTitle {
+  font-size: 12px;
+  font-weight: 600;
+  color: #585858;
+  margin-bottom: 10px;
+}
+
+.featureSubTitle {
+  font-size: 12px;
+  font-weight: 400;
+  color: #585858;
+  margin-bottom: 10px;
+}
+.GreenText {
+  font-size: 10px;
+  font-weight: 400;
+  color: #1dddc7;
+  align-self: center;
+}

@@ -1,0 +1,32 @@
+.landHeadings {
+  font-weight: 500;
+  font-size: 18px;
+  color: #0b1133;
+}
+.landHeadingsborder {
+  border-top: 1px dashed #4d79eb;
+}
+.viewText {
+  font-weight: 400;
+  font-size: 14px;
+  color: #4d79eb;
+}
+.landSubHeading {
+  font-weight: 400;
+  font-size: 15px;
+  color: #5f5f5f;
+  border-bottom: 1px dashed #4d79eb;
+}
+.landSubHeadingNoBorder {
+  font-weight: 400;
+  font-size: 15px;
+  color: #5f5f5f;
+}
+footer .row {
+  --bs-gutter-x: 0 !important;
+}
+@media (max-width: 500px) {
+  .rowGaps1 {
+    gap: 10px;
+  }
+}
